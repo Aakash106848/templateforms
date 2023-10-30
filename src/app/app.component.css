@@ -1,0 +1,23 @@
+form
+{
+    display: flex;
+    flex-direction: column; 
+}
+fieldset
+{
+    width: fit-content;
+    height: fit-content;
+}
+table
+{
+    border: 1px solid black;
+}
+td
+{
+    border: 1px solid black;
+}
+tr:first-of-type
+{
+    text-align: center;
+
+}
